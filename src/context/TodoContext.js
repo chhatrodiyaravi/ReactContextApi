@@ -19,9 +19,3 @@ export const UseTodo = () => {
 };
 
 export const TodoProvider = TodoContext.Provider;
-
-
-
-
-
-
